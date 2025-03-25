@@ -213,16 +213,7 @@ graph TD
     N --> H
     M -->|No| O[Final Document]
     O --> P[End]
-6. Cloud Hosting Cost Estimates
-Based on current market rates:
 
-Provider	Cost Range per Month	Features
-DigitalOcean	$5–$80	Affordable pay-as-you-go plans; ideal for lightweight applications
-AWS	$80–$300+	Scalable compute instances; suitable for high-demand applications
-Google Cloud	$50–$300+	Flexible pricing; includes advanced analytics tools
-Hostinger	$7.99–$29.99	Managed cloud hosting; free SSL certificates and domain-based emails
-ServerMania	$47–$466	High-performance configurations; ideal for large-scale applications
-Recommendation: Start with DigitalOcean ($5–$80/month) or Hostinger ($7.99/month) for cost-effective hosting during early development stages.
 
 7. API Endpoints
 Authentication
